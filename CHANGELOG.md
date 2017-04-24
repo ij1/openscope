@@ -16,7 +16,7 @@
 
 
 ### Bugfixes
-
+- Ensure the verbal and text instructions/readbacks state the correct directionality [#188](https://github.com/openscope/openscope/issues/188)
 
 
 
