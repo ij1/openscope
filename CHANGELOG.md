@@ -7,6 +7,7 @@
 
 ### Features
 - adds [deployment-checklist](tools/documentation/deployment-checklist.md) document [#316](https://github.com/openscope/openscope/issues/316)
+- adds [airport-file-standards](tools/documentation/deployment-checklist.md) document [#367](https://github.com/openscope/openscope/issues/367)
 
 
 
